@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[FamCam]]></title>
-        <description><![CDATA[FamCam]]></description>
+        <title><![CDATA[FamCam: because the most important time is family time]]></title>
+        <description><![CDATA[FamCam: because the most important time is family time]]></description>
         <link>http://famcam.life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 00:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 00:41:29 GMT</lastBuildDate>
         <atom:link href="http://famcam.life/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gear Recommendations]]></title>
+            <description><![CDATA[<article><h1>Gear Recommendations</h1><p>The recommendations here are intended for families.</p></article>]]></description>
+            <link>http://famcam.life/gear-recommendations/index.html</link>
+            <guid isPermaLink="false">9b13399a-8200-4aea-a28e-fae919d91bfc</guid>
+            <pubDate>Wed, 09 Mar 2016 00:41:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Family Photo Tips]]></title>
             <description><![CDATA[<article><h1>Family Photo Tips</h1><p>This is a long test post.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0718febcf8ede6f4de5e9d11fbff4c67ecdbba3e.jpg"></article>]]></description>
