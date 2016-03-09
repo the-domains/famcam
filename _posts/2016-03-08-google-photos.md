@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://photos.google.com/share/AF1QipOpz53bBi2fmrgsCz7V62Ig6zxSKI6bnOh5p1l55fmKORFawv-XnOIrWLPijAfXZQ/photo/AF1QipOmlOSSEdp-tnNr3GhQ88YvW9Y0GSM5eP4yj50q?key=WXNqNHd4SUQ5em95R1B5MEdYOE1IYXg5eGQ0SU5B'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T21:24:01.543Z'
-dateModified: '2016-03-08T21:22:25.349Z'
+datePublished: '2016-03-09T00:31:52.622Z'
+dateModified: '2016-03-09T00:30:33.357Z'
 author: []
 related: []
 app_links:
@@ -21,15 +20,16 @@ app_links:
   - namespace: twitter
     type: iphone
     id: id962194608
-title: Google Photos
+title: School portraits
+sourcePath: _posts/2016-03-08-google-photos.md
+published: true
 authors: []
 publisher:
   name: Google Photos
   domain: photos.google.com
   url: 'https://photos.google.com'
   favicon: 'https://ssl.gstatic.com/social/photosui/images/logo_photos_color_192.png'
-sourcePath: _posts/2016-03-08-google-photos.md
-published: true
+url: school-portraits/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
