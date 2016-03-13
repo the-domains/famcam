@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The recommendations here are intended for families.
-datePublished: '2016-03-09T12:38:15.959Z'
-dateModified: '2016-03-09T00:44:34.990Z'
+datePublished: '2016-03-13T00:56:53.048Z'
+dateModified: '2016-03-09T12:38:24.698Z'
 title: Gear Recommendations
 author: []
 sourcePath: _posts/2016-03-09-gear-recommendations.md
