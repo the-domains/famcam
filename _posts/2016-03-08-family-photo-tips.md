@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: asdfas
-datePublished: '2016-03-08T22:31:10.946Z'
-dateModified: '2016-03-08T22:29:37.842Z'
+description: This is a long test post.
+datePublished: '2016-03-13T00:57:16.123Z'
+dateModified: '2016-03-09T00:41:53.065Z'
 title: Family Photo Tips
 author: []
+sourcePath: _posts/2016-03-08-family-photo-tips.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-family-photo-tips.md
-published: true
 url: family-photo-tips/index.html
 _type: Article
 
