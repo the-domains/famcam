@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is a long test post.
-datePublished: '2016-03-13T00:57:16.123Z'
-dateModified: '2016-03-09T00:41:53.065Z'
-title: Family Photo Tips
+datePublished: '2016-03-13T03:04:00.321Z'
+dateModified: '2016-03-13T00:59:57.529Z'
+title: Tips
 author: []
 sourcePath: _posts/2016-03-08-family-photo-tips.md
 published: true
